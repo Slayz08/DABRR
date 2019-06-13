@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\DeskT\backup Laptop\scheduling5\scheduling5\Source.cpp(132,21): warning C4018:  '<': no coinciden signed/unsigned
+D:\DeskT\backup Laptop\scheduling5\scheduling5\Source.cpp(134,22): warning C4018:  '<': no coinciden signed/unsigned
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Source.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  scheduling5.vcxproj -> D:\DeskT\backup Laptop\scheduling5\Debug\scheduling5.exe
